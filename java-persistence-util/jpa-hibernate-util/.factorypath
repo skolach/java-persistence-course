@@ -1,0 +1,22 @@
+<factorypath>
+    <factorypathentry kind="VARJAR" id="M2_REPO/io/codearte/jfairy/jfairy/0.5.7/jfairy-0.5.7.jar" enabled="true" runInBatchMode="false"/>
+    <factorypathentry kind="VARJAR" id="M2_REPO/org/yaml/snakeyaml/1.28/snakeyaml-1.28.jar" enabled="true" runInBatchMode="false"/>
+    <factorypathentry kind="VARJAR" id="M2_REPO/org/iban4j/iban4j/2.1.1/iban4j-2.1.1.jar" enabled="true" runInBatchMode="false"/>
+    <factorypathentry kind="VARJAR" id="M2_REPO/com/google/guava/guava/20.0/guava-20.0.jar" enabled="true" runInBatchMode="false"/>
+    <factorypathentry kind="VARJAR" id="M2_REPO/com/google/inject/guice/4.0/guice-4.0.jar" enabled="true" runInBatchMode="false"/>
+    <factorypathentry kind="VARJAR" id="M2_REPO/javax/inject/javax.inject/1/javax.inject-1.jar" enabled="true" runInBatchMode="false"/>
+    <factorypathentry kind="VARJAR" id="M2_REPO/aopalliance/aopalliance/1.0/aopalliance-1.0.jar" enabled="true" runInBatchMode="false"/>
+    <factorypathentry kind="VARJAR" id="M2_REPO/joda-time/joda-time/2.3/joda-time-2.3.jar" enabled="true" runInBatchMode="false"/>
+    <factorypathentry kind="VARJAR" id="M2_REPO/com/google/inject/extensions/guice-assistedinject/4.0/guice-assistedinject-4.0.jar" enabled="true" runInBatchMode="false"/>
+    <factorypathentry kind="VARJAR" id="M2_REPO/org/reflections/reflections/0.9.9/reflections-0.9.9.jar" enabled="true" runInBatchMode="false"/>
+    <factorypathentry kind="VARJAR" id="M2_REPO/org/javassist/javassist/3.18.2-GA/javassist-3.18.2-GA.jar" enabled="true" runInBatchMode="false"/>
+    <factorypathentry kind="VARJAR" id="M2_REPO/com/google/code/findbugs/annotations/2.0.1/annotations-2.0.1.jar" enabled="true" runInBatchMode="false"/>
+    <factorypathentry kind="VARJAR" id="M2_REPO/org/slf4j/slf4j-api/1.7.7/slf4j-api-1.7.7.jar" enabled="true" runInBatchMode="false"/>
+    <factorypathentry kind="VARJAR" id="M2_REPO/org/postgresql/postgresql/9.4-1202-jdbc4/postgresql-9.4-1202-jdbc4.jar" enabled="true" runInBatchMode="false"/>
+    <factorypathentry kind="VARJAR" id="M2_REPO/com/h2database/h2/1.4.197/h2-1.4.197.jar" enabled="true" runInBatchMode="false"/>
+    <factorypathentry kind="VARJAR" id="M2_REPO/org/hibernate/javax/persistence/hibernate-jpa-2.1-api/1.0.2.Final/hibernate-jpa-2.1-api-1.0.2.Final.jar" enabled="true" runInBatchMode="false"/>
+    <factorypathentry kind="VARJAR" id="M2_REPO/org/projectlombok/lombok/1.18.16/lombok-1.18.16.jar" enabled="true" runInBatchMode="false"/>
+    <factorypathentry kind="VARJAR" id="M2_REPO/com/google/code/findbugs/jsr305/3.0.2/jsr305-3.0.2.jar" enabled="true" runInBatchMode="false"/>
+    <factorypathentry kind="VARJAR" id="M2_REPO/org/slf4j/slf4j-simple/1.7.30/slf4j-simple-1.7.30.jar" enabled="true" runInBatchMode="false"/>
+    <factorypathentry kind="VARJAR" id="M2_REPO/org/apache/commons/commons-lang3/3.8/commons-lang3-3.8.jar" enabled="true" runInBatchMode="false"/>
+</factorypath>
